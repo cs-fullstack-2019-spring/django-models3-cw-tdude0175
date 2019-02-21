@@ -14,3 +14,5 @@ Create an 'all/' endpoint that prints out all entry years, create a new endpoint
 In Exercise 1 create another new endpoint to change genre of at least one entry with a publish date greater than or equal to 01/01/2018 to "fiction".
 
 In Exercise 2 create another new endpoint to change the models of all entries with year greater than 2010 to be "F150".
+
+did exercises 1 and 2
