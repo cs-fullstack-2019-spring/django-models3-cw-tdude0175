@@ -3,6 +3,7 @@ from . import views
 
 urlpatterns =\
     [
+        # to many paths so little time
         path('',views.index,name='index'),
         path('newbook',views.newBook,name = 'newBook'),
         path('bookview',views.bookView, name = 'bookView'),

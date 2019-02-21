@@ -2,6 +2,9 @@ from django.db import models
 from django.utils import timezone
 # Create your models here.
 
+
+# for both models u added str for troubleshooting in case of issues not easily seen otherwise simple letters and numbers
+# save publish date
 class Book(models.Model):
     name = models.CharField(max_length=100)
     pageNumber = models.IntegerField(default=0)
