@@ -16,3 +16,5 @@ In Exercise 1 create another new endpoint to change genre of at least one entry 
 In Exercise 2 create another new endpoint to change the models of all entries with year greater than 2010 to be "F150".
 
 did exercises 1 and 2
+<hr>
+2 points.
